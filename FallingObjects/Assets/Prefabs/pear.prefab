@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5973791310380446348}
   - component: {fileID: 5963354560604100880}
   - component: {fileID: 5949291999793293774}
+  - component: {fileID: 4200049812105699245}
   m_Layer: 0
   m_Name: pear
   m_TagString: Untagged
@@ -95,3 +96,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fallSpeed: 5
+--- !u!114 &4200049812105699245
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5951055709023087806}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b442794bbb9402e4285e5e8bc554a814, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 4665906660544273319}
   - component: {fileID: 4675769481978122185}
   - component: {fileID: 4663333044283857220}
+  - component: {fileID: 1369002585325491}
   m_Layer: 0
   m_Name: avocado
   m_TagString: Untagged
@@ -95,3 +96,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fallSpeed: 10
+--- !u!114 &1369002585325491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4662247797779017983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b442794bbb9402e4285e5e8bc554a814, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
