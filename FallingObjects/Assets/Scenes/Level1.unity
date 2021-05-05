@@ -264,10 +264,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f8401c34b6fac24fa9476ce974b939f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  FruitPrefabs:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  fruitPrefabs:
+  - {fileID: 1017771678654010286, guid: c8c528e600958b14a8a01d751a5a0757, type: 3}
+  - {fileID: 4662247797779017983, guid: 713c8a2a4e0dfea40be9cf9f6c640347, type: 3}
+  - {fileID: 5951055709023087806, guid: 7b15efdf07869574f80aaf96aa0c894e, type: 3}
+  fruitIndex: 0
 --- !u!4 &603571566
 Transform:
   m_ObjectHideFlags: 0

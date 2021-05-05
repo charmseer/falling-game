@@ -13,6 +13,8 @@ GameObject:
   - component: {fileID: 4675769481978122185}
   - component: {fileID: 4663333044283857220}
   - component: {fileID: 1369002585325491}
+  - component: {fileID: 1044976477170670570}
+  - component: {fileID: 1369002585325492}
   m_Layer: 0
   m_Name: avocado
   m_TagString: Untagged
@@ -106,5 +108,30 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b442794bbb9402e4285e5e8bc554a814, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!65 &1044976477170670570
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4662247797779017983}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.012543337, y: 0.0088720145, z: 0.017994022}
+  m_Center: {x: -0.00045923353, y: 0.00041370513, z: 0}
+--- !u!114 &1369002585325492
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4662247797779017983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e963927f7535c14d8b7441266f327e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
